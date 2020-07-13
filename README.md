@@ -1,7 +1,8 @@
-### Hi there 👋
+## What's new?
 
-**moodele/moodele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web developer / mobile game developer with hands-on experience and continuous self-development. I develop web apps with clean user interfaces to drive positive user experience and keep users more engaged with animated interactions. I also develop mobile games that keep players attracted to story-telling game design and interactivity with other enthusiastic players.
 
-- 💬 Ask me about: React, Game Dev
+#### Want to know more?
 - 📫 How to reach me: moh.agboola@gmail.com
+- 💬 Ask me about: React, Game Dev
 - ⚡ Fun fact: I'm boring 😄
