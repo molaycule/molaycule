@@ -7,3 +7,7 @@ I am a web developer / mobile game developer with hands-on experience and contin
 - 📫 How to reach me: moh.agboola@gmail.com
 - 💬 Ask me about: React, Game Dev
 - ⚡ Fun fact: I'm boring 😄
+
+<a href="https://app.codiga.io/public/user/github/molaycule">
+   <img src="https://api.codiga.io/public/badge/user/github/molaycule?style=light" alt="codiga badge" />
+</a>
