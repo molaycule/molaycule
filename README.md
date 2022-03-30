@@ -1,4 +1,3 @@
-![Moh Profile](https://github.com/moodele/moodele/blob/master/moh_intro.gif)
 ## What's new?
 
 Front-end developer with experience designing and building responsive web design and mobile apps. Proficient with CSS and JavaScript Frameworks, with extensive knowledge of user experience and software design patterns. Notable achievements include contributions to open source dev tools that accelerate developers' repetitive coding tasks.
