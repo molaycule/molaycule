@@ -10,3 +10,5 @@ Front-end developer with experience designing and building responsive web design
 - 📫 How to reach me: moh.agboola@gmail.com
 - 💬 Ask me about: React, Game Dev
 - ⚡ Fun fact: I'm boring 😄
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molaycule&layout=compact&theme=cobalt&hide_border=true" />
