@@ -1,7 +1,7 @@
 ![Moh Profile](https://github.com/moodele/moodele/blob/master/moh_intro.gif)
 ## What's new?
 
-I am a web developer / mobile game developer with hands-on experience and continuous self-development. I develop web apps with clean user interfaces to drive positive user experience and keep users more engaged with animated interactions. I also develop mobile games that keep players attracted to story-telling game design and interactivity with other enthusiastic players.
+Front-end developer with experience designing and building responsive web design and mobile apps. Proficient with CSS and JavaScript Frameworks, with extensive knowledge of user experience and software design patterns. Notable achievements include contributions to open source dev tools that accelerate developers' repetitive coding tasks.
 
 ## Contributions
 - [Amplication](https://github.com/amplication/amplication) is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
