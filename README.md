@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B522&vCenter=true&height=40&lines=Hey!+Githuber+%F0%9F%91%8B;I'm+Mohammed+Agboola+%F0%9F%98%8E;A+Pragmatic+Frontend+Engineer+%F0%9F%A4%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B522&vCenter=true&height=50&lines=Hey!+Githuber+%F0%9F%91%8B;I'm+Mohammed+Agboola+%F0%9F%98%8E;A+Pragmatic+Frontend+Engineer+%F0%9F%A4%A9)](https://git.io/typing-svg)
 
 ## What's new?
 
