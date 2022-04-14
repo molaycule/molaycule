@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B522&lines=Hey!+Githuber+%F0%9F%91%8B;I'm+Mohammed+Agboola+%F0%9F%98%8E;A+Pragmatic+Frontend+Engineer+%F0%9F%A4%A9)](https://git.io/typing-svg)
+
 ## What's new?
 
 Pragmatic Frontend Developer with experience designing and building responsive web design and mobile apps. Proficient with CSS and JavaScript Frameworks, with extensive knowledge of user experience and software design patterns. Notable achievements include contributions to open-source developer tools that accelerate developers' repetitive coding tasks.
