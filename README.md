@@ -2,9 +2,9 @@
 
 ![moh-headline-bg](https://user-images.githubusercontent.com/20028628/169842322-11194ece-7976-427e-a1a3-439871a323f7.png)
 
-## What's new?
+## About Me
 
-Pragmatic Frontend Engineer with experience designing and building responsive web design and mobile apps. Proficient with CSS and JavaScript Frameworks, with extensive knowledge of user experience and software design patterns. Notable achievements include contributions to open-source developer tools that accelerate developers' repetitive coding tasks.
+A pragmatic Frontend Engineer with experience designing and building responsive web applications. Proficient with CSS and JavaScript Frameworks, with extensive knowledge of user experience and software design patterns. Notable achievements include contributions to open-source developer tools that accelerate developers' repetitive coding tasks.
 
 ## Contributions
 - [Amplication](https://github.com/amplication/amplication) is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
