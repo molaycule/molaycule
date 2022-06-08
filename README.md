@@ -12,9 +12,4 @@ A pragmatic Frontend Engineer with experience designing and building responsive 
 ## Contributions
 - [Amplication](https://github.com/amplication/amplication) is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 
-#### Want to know more?
-- 📫 How to reach me: moh.agboola@gmail.com
-- 💬 Ask me about: React, Game Dev
-- ⚡ Fun fact: I'm boring 😄
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molaycule&layout=compact&theme=cobalt&hide_border=true" />
