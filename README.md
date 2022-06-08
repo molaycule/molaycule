@@ -6,6 +6,9 @@
 
 A pragmatic Frontend Engineer with experience designing and building responsive web applications. Proficient with CSS and JavaScript Frameworks, with extensive knowledge of user experience and software design patterns. An early adopter of building web components using Lit Framework. Notable achievements include contributions to open-source developer tools that accelerate developers' repetitive coding tasks.
 
+## Portfolio
+- [Parentyn](https://parentyn.com/) is a parental control and remote monitoring application. It is a solution that pairs a ward’s phone(s) to a secure cloud based dashboard. Access to same dashboard subscribed to by the respective parent where activities of the ward are captured with varing levels of severity. `Parentyn Features: Call logs, Block callers, Browse history, App usage, App Restriction, Screen time and Frequent used words analysis.`
+
 ## Contributions
 - [Amplication](https://github.com/amplication/amplication) is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 
