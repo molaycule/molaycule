@@ -4,7 +4,7 @@
 
 ## About Me
 
-Whether it's responsive web applications or cloud-based solutions, I thrive on delivering well-optimized testable clean code; the result is high-performing scalable applications with optimal user experience.
+Front-end Engineer, interested in automation and web performance. Worked mainly with JavaScript build tools & frameworks. I thrive on delivering testable clean code; the results are high-performing scalable applications with optimal user experience.
 
 ## Portfolio
 - [Parentyn](https://parentyn.com/) is a parental control and remote monitoring application. It is a solution that pairs a ward’s phone(s) to a secure cloud based dashboard. Access to same dashboard subscribed to by the respective parent where activities of the ward are captured with varing levels of severity. `Parentyn Features: Call logs, Block callers, Browse history, App usage, App Restriction, Screen time and Frequent used words analysis.`
