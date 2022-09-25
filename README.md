@@ -4,7 +4,7 @@
 
 ## About Me
 
-Front-end Engineer, interested in automation and web performance. Worked mainly with modern web frameworks and technologies to build a better web experience for everyone.
+I am a software engineer that specializes in automation and web development. I work mainly with modern web frameworks and technologies to build a better web experience. I am skilled in React, JavaScript, Node.js, Next.js, and C# and I am also recognized as an open-source champion.
 
 "*The most amazing thing I've achieved is standing out as an open-source champion for my contributions to developing and supporting an application that generates NodeJS code.*"
 
