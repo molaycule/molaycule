@@ -6,7 +6,7 @@
 
 I am a software engineer that specializes in automation and web development. I work mainly with modern web frameworks and technologies to build a better web experience. I am skilled in React, JavaScript, Node.js, Next.js, and C# and I am also recognized as an open-source champion.
 
-"*The most amazing thing I've achieved is standing out as an open-source champion for my contributions to developing and supporting an application that generates NodeJS code.*"
+"*The most amazing software I've contributed to developing and supporting is an application that generates Node.js code, which helped me stand out as an open-source champion.*"
 
 ## Portfolio
 - [Parentyn](https://parentyn.com/) is a parental control and remote monitoring application. It is a solution that pairs a ward’s phone(s) to a secure cloud based dashboard. Access to same dashboard subscribed to by the respective parent where activities of the ward are captured with varing levels of severity. `Parentyn Features: Call logs, Block callers, Browse history, App usage, App Restriction, Screen time and Frequent used words analysis.`
