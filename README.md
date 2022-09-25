@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B522&vCenter=true&height=50&lines=Hey!+Githuber+%F0%9F%91%8B;I'm+Mohammed+Agboola+%F0%9F%98%8E;A+Pragmatic+Frontend+Engineer+%F0%9F%A4%A9)](https://git.io/typing-svg)
 
-![moh-headline-bg](https://user-images.githubusercontent.com/20028628/169842322-11194ece-7976-427e-a1a3-439871a323f7.png)
+![moh-headline-bg](https://user-images.githubusercontent.com/20028628/192128578-3edac2d3-a300-45c4-9da9-3ada5a86f2de.png)
 
 ## About Me
 
