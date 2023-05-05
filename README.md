@@ -12,7 +12,7 @@ I am a software engineer specializing in automation and web development. I work 
 - [Parentyn](https://parentyn.com/) is a parental control and remote monitoring application. It is a solution that pairs a ward’s phone(s) to a secure cloud based dashboard. Access to same dashboard subscribed to by the respective parent where activities of the ward are captured with varing levels of severity. `Parentyn Features: Call logs, Block callers, Browse history, App usage, App Restriction, Screen time and Frequent used words analysis.`
 - [Akin - Rise of a Legend](https://play.google.com/store/apps/details?id=com.ninegridz.akin) is an RPG game designed to take you on a journey through a fictional Ile-Ife, an acient city in Western Nigeria. Link to [Playstore](https://play.google.com/store/apps/details?id=com.ninegridz.akin). Link to [Trailer](https://youtu.be/N6UUzXSnfvY)
 - [Calendar-wc](https://www.npmjs.com/package/calendar-wc) is a calendar web component widget that is framework agnostic and useful for applications with scheduling and booking features.
-- [Propel Africa](https://home.propel.africa/) is a website for browsing and discovering African startup companies, investors, funding and deals.
+- [Propel Africa](https://propel.africa/) is a website for browsing and discovering African startup companies, investors, funding and deals.
 
 ## Contributions
 - [Amplication](https://github.com/amplication/amplication) is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
