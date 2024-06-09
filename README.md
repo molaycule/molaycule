@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a software engineer specializing in automation and web development. I work mainly with modern web frameworks and technologies to build a better web experience. I am skilled in React, JavaScript, TypeScript, Node.js, Next.js, and C#. Also, recognized as an open-source champion.
+I am a Software Developer Expert in Web Development and AI Automation. Proficient in modern web frameworks and technologies, I craft robust software applications with React, Vue, JavaScript/TypeScript, Node.js, Next.js, Python, C#, and Unity. Proudly recognized as a Twilio Developer Champion and an Amplication Open-Source Champion.
 
 "*The most amazing software I've contributed to developing and supporting is an application that generates Node.js code, which helped me stand out as an open-source champion.*"
 
